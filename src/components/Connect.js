@@ -21,7 +21,7 @@ const Connect = () => {
               <path d="M4 4h16v16H4z" stroke="#ff6b23" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
               <path d="M22 6l-10 7L2 6" stroke="#ff6b23" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
             </svg>
-            <div className="connect-text">info@alps-contractors.co.nz</div>
+            <div className="connect-text">info@alpscontractors.co.nz</div>
           </div>
 
           <div className="connect-item">
